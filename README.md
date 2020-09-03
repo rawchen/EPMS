@@ -1,70 +1,69 @@
-# 学生信息管理系统SIMS
-纯Servlet技术的学生信息管理系统，没有SpringMVC、Spring Boot框架
+# 企业人事管理系统EPMS
+Java Swing技术的企业人事管理系统，没有使用Maven构建，因此源码包含lib
 
 ## 项目简介
 
-面向教学信息以及学生及老师的信息管理要求，学生信息管理系统应运而生，它能提供线上的信息管理，从而高效的处理数据。方便方便对学生及老师各类数据进行大数据分析。
+面向企业的对人事信息管理要求，企业人事管理系统应运而生，它能提供对员工、部门、考勤、工资等的信息管理，从而高效的处理数据。方便对企业各类数据进行大数据分析。
 
 ## 技术栈：
 
-Jsp+Servlet+Layui+Druid+JDBC-Template+JQuery+Js+Ajax+Json+EL/JSTL+BeanUtils
-
-服务器： Tomcat_8.5.53
+Swing+Druid+jdbcTemple+jdk1.8
 
 数据库： MySQL_5.6.46
 
 开发工具：IDEA_2019.1.3
 
-界面制作：Layui
-
 ## 项目使用说明
 
-1. 导入结构和数据：sims.sql
+1. 导入结构和数据：sql/epms.sql
 
-2. 解压下载zip重命名sims-master文件夹为sims，IDEA打开该sims项目
+2. 解压下载zip重命名EPMS-master文件夹为EPMS，IDEA打开该EPMS项目
 
 3. 修改配置数据库连接文件：druid.properties
 
-4. 为项目添加Tomcat配置，Deployment下Application context设置为：/sims
+4. 启动文件为src/test/Main类中的main方法
 
-   管理员      帐号：admin                     密码：admin
+   管理员      帐号：T00001                     密码：123456
 
-   学生          帐号：1812123206          密码：123
-
-   老师          帐号：9912123206          密码：123
 
 ## 功能描述
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnmk.png)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/1.png)
+
+
+
+## 功能分析用例图
+
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/2.png)
 
 
 
 ## 数据库设计
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/sql.png)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/3.png)
 
 
 
 ## 代码结构
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/jgt1.jpg)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/4.png)
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/jgt2.jpg)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/5.png)
 
 
 
 ## 功能实现部分截图
 
-![功能实现1](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx1.png)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/6.png)
 
-![功能实现2](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx2.png)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/7.png)
 
-![功能实现3](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx3.png)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/8.png)
 
-![功能实现4](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx4.png)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/9.png)
 
-![功能实现5](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx5.png)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/10.png)
 
-![功能实现6](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx6.png)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/11.png)
 
-![功能实现7](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx7.png)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/12.png)

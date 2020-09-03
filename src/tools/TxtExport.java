@@ -15,7 +15,7 @@ import java.io.PrintWriter;
  */
 public class TxtExport {
  
-	private static String path = "E:/";
+	private static String path = "C:/";
 	
 	private static String filenameTemp;
  
