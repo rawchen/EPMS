@@ -28,42 +28,42 @@ Swing+Druid+jdbcTemple+jdk1.8
 
 ## 功能描述
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/1.png)
+![](https://raw.githubusercontent.com/yoyling/EPMS/master/screenshots/1.png)
 
 
 
 ## 功能分析用例图
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/2.png)
+![](https://raw.githubusercontent.com/yoyling/EPMS/master/screenshots/2.png)
 
 
 
 ## 数据库设计
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/3.png)
+![](https://raw.githubusercontent.com/yoyling/EPMS/master/screenshots/3.png)
 
 
 
 ## 代码结构
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/4.png)
+![](https://raw.githubusercontent.com/yoyling/EPMS/master/screenshots/4.png)
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/5.png)
+![](https://raw.githubusercontent.com/yoyling/EPMS/master/screenshots/5.png)
 
 
 
 ## 功能实现部分截图
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/6.png)
+![](https://raw.githubusercontent.com/yoyling/EPMS/master/screenshots/6.png)
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/7.png)
+![](https://raw.githubusercontent.com/yoyling/EPMS/master/screenshots/7.png)
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/8.png)
+![](https://raw.githubusercontent.com/yoyling/EPMS/master/screenshots/8.png)
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/9.png)
+![](https://raw.githubusercontent.com/yoyling/EPMS/master/screenshots/9.png)
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/10.png)
+![](https://raw.githubusercontent.com/yoyling/EPMS/master/screenshots/10.png)
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/11.png)
+![](https://raw.githubusercontent.com/yoyling/EPMS/master/screenshots/11.png)
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/epms/12.png)
+![](https://raw.githubusercontent.com/yoyling/EPMS/master/screenshots/12.png)
