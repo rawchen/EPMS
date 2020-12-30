@@ -14,9 +14,13 @@
  Date: 31/05/2020 13:29:44
 */
 
+SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+
+
 -- ----------------------------
 -- Table structure for tb_account
 -- ----------------------------
+
 DROP TABLE IF EXISTS `tb_account`;
 CREATE TABLE `tb_account`  (
   `TIMECARD_ID` int(11) NOT NULL,
